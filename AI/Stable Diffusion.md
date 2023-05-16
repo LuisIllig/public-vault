@@ -1,10 +1,12 @@
 # Stable Diffusion WebUI
 
 https://aigarlic.fanbox.cc/posts/5923261
+https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main
 
 The best way to use stable diffusion for image generation is stable-diffusion-webui by automatic111. [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 This tooling also provides alot of extension which enables much more than simple text to image. E.g. upscaling, inpainting, infinite zoom videos, etc.
 All [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase)
+Some [Resources](https://www.reddit.com/r/StableDiffusion/comments/yknrjt/list_of_sd_tutorials_resources/)
 
 - [[#General Tips|General Tips]]
 - [[#Models|Models]]
@@ -68,6 +70,7 @@ A great YT Channel for ControlNet is [Sebastian Kamph](https://www.youtube.com/@
 Some great videos:
 - [upscaling](https://www.youtube.com/watch?v=EmA0RwWv-os)
 - [lighting](https://www.youtube.com/watch?v=_xHC3bT5GBU)
+- [style](https://www.youtube.com/watch?v=wDM8iDK-yng)
 
 ## Upscaling
 There are two recommended ways to upscale:
@@ -99,7 +102,7 @@ Must haves:
 - controlnet
 - aspect-ratio-helper
 
-### [depthmap2mask]((https://github.com/Extraltodeus/depthmap2mask)
+### [depthmap2mask](https://github.com/Extraltodeus/depthmap2mask)
 Creates masks using depth estimation. Very usefull for inpainting.
 
 ### [infinite zoom](https://github.com/v8hid/infinite-zoom-automatic1111-webui.git)
