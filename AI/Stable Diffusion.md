@@ -1,5 +1,7 @@
 # Stable Diffusion WebUI
 
+https://aigarlic.fanbox.cc/posts/5923261
+
 The best way to use stable diffusion for image generation is stable-diffusion-webui by automatic111. [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 This tooling also provides alot of extension which enables much more than simple text to image. E.g. upscaling, inpainting, infinite zoom videos, etc.
 All [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase)
@@ -41,7 +43,7 @@ CIVITAI is currently not working as a plugin.
 
 ### Gread Models:
 - Stable Diffusion 1.5
-- [Open Journey 4](https://huggingface.co/prompthero/openjourney-v4https://huggingface.co/prompthero/openjourney-v4)
+- [Open Journey 4](https://huggingface.co/prompthero/openjourney-v4)
 - [Dreamlike Anime 1.0](https://huggingface.co/dreamlike-art/dreamlike-anime-1.0) (Anime)
 - [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion) (Anime, Character)
 
@@ -54,23 +56,46 @@ Here are some great sites for prompt suggestions:
 - [Prompt Hero](https://prompthero.com/stable-diffusion-prompts)
 - [Best 100+ Stable Diffusion Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/#best-ai-architecture-prompts)
 ## Plugins
+
 Must haves:
 - ultimate upscale
+- infinite-image-browsing or images-browser
+- controlnet
+- aspect-ratio-helper
 
-### depthmap2mask
-[GitHub](https://github.com/Extraltodeus/depthmap2mask) 
+### [depthmap2mask]((https://github.com/Extraltodeus/depthmap2mask)
 Creates masks using depth estimation. Very usefull for inpainting.
 
-### infinite zoom
-[GitHub](https://github.com/v8hid/infinite-zoom-automatic1111-webui.git)
+### [infinite zoom](https://github.com/v8hid/infinite-zoom-automatic1111-webui.git)
 Creates infinite zoom videos.
 
 Tips:
 - Zoom mode is by default "Zoom-out", there is also an "Zoom-in" option in 
 
-### ultimate upscale
-[GitHub](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git)
+### [ultimate upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git)
 Adds more upscaling options. For examples see [here](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111/wiki/Examples)
+
+### [infinite-image-browsing](https://github.com/zanllp/sd-webui-infinite-image-browsing.git)
+Image Browser without paging. Makes it easy to manage images and prompts.
+
+### [images-browsing](https://github.com/AlUlkesh/stable-diffusion-webui-images-browser)
+Same as infinite-image-browsing but with pages.
+
+### [controlnet]
+[GitHub](https://github.com/Mikubill/sd-webui-controlnet)
+Much better control over image generation with many functions.
+
+### [openpose-editor](https://github.com/fkunn1326/openpose-editor)
+Create openpose models in sd-webui. Really usefull for controlnets openpose model. 
+
+### [aspect-ratio-helper](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper)
+Helps keeping aspect ratios. More can be added in the Settings
+
+### [deforum](https://github.com/deforum-art/deforum-for-automatic1111-webui.git)
+Text2Video extension
+
+### [SD-CN-Animation](https://github.com/volotat/SD-CN-Animation.git)
+Text2Video extension.
 
 ## Problems and Solutions
 
