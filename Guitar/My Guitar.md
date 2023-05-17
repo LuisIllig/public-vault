@@ -33,7 +33,7 @@ My first guitar I started learning this wonderful instrument. Sadly the Neck is 
 ## Candidates
 
 - Yamaha
-	- NCX 3 / 5 
-	- NTX 3 / 5
+	- NCX 3 / 5 ~1000/1700€
+	- NTX 3 / 5 ~1000/1700€
 - Ibanez
-	- TOD10N
+	- TOD10N ~600-700€

@@ -1,6 +1,6 @@
 # Hardware
 
-|                |                                  |
+| Part           | Description                      |
 | -------------- | -------------------------------- |
 | 3D-Printer     | Ender-3 S1 Pro                   |
 | Touchscreen    | 7" Touch Screen 1024x600 for RPI |

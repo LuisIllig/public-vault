@@ -1,8 +1,5 @@
 # Stable Diffusion WebUI
 
-https://aigarlic.fanbox.cc/posts/5923261
-https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main
-
 The best way to use stable diffusion for image generation is stable-diffusion-webui by automatic111. [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 This tooling also provides alot of extension which enables much more than simple text to image. E.g. upscaling, inpainting, infinite zoom videos, etc.
 All [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase)
@@ -152,3 +149,11 @@ set COMMANDLINE_ARGS=--no-half-vae --no-half
 
 call webui.bat
 ```
+
+# Stuff I need to add
+
+https://aigarlic.fanbox.cc/posts/5923261
+https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main
+https://pacoup.com/2011/06/12/list-of-true-169-resolutions/
+https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion
+https://stable-diffusion-art.com/samplers/
