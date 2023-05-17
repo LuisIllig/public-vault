@@ -6,3 +6,7 @@
 # Techniques
 
 - [GuitarDex](https://guitardex.com/t)
+
+# Free Tabs
+
+- [Bolton Guitar Studio](https://www.boltonguitar.co.uk/tabs/) lots of nice spanish stuff
