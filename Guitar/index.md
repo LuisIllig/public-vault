@@ -1,0 +1,3 @@
+- [[My Guitar]]
+- [[Resources]]
+- [[Stuff I want to learn]]

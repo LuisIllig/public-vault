@@ -24,10 +24,11 @@ My first guitar I started learning this wonderful instrument. Sadly the Neck is 
 - Low action
 - Maybe a hybrid (best of electronic and classical)
 - Nylon with Pick Up
+- Steel strings / will most likely go with nylon
 
 ## What I definitly want
 
--  Nylon strings
+- Nylon strings
 - Most likey with cut out
 
 ## Candidates

@@ -2,6 +2,7 @@
 
 - [Rainy Day Studio](https://www.youtube.com/@rainydaystudio77)
 - [Sky Guitar](https://www.youtube.com/@SkyGuitar)
+- [Bolton Guitar Studio](https://www.youtube.com/@boltonguitarstudio3115)
 
 # Techniques
 
