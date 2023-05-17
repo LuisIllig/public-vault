@@ -1,3 +1,4 @@
+[[Guitar/index|Home]]
 # Techniques
 
 - [Bells Harmonics](https://www.youtube.com/watch?v=F0zwSrNgif4)

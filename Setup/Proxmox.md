@@ -1,3 +1,4 @@
+[[Setup/index|Home]]
 # Hardware
 
 geizhals [part list](https://geizhals.de/wishlists/2659082)

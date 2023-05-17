@@ -1,3 +1,5 @@
+[[Projects/index|Home]]
+
 https://github.com/NixOS/nixos-hardware
 https://github.com/wimpysworld/nix-config
 https://nixcloud.io/tour/?id=8

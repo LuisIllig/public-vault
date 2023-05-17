@@ -1,3 +1,4 @@
+[[Guitar/index|Home]]
 # Current guitar
 My current guitar is a **LaMancha Diamante S**.
 

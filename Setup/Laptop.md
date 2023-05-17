@@ -1,3 +1,4 @@
+[[Setup/index|Home]]
 # Hardware
 
 Lenovo ThinkPad T16 Gen 1 for **1.683,01 €**.
