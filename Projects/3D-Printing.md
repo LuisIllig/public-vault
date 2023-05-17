@@ -1,3 +1,3 @@
-[[Projects/index|Home]]
+[[Projects|Home]]
 
 https://www.thingiverse.com/

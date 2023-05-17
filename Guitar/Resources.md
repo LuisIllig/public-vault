@@ -1,4 +1,4 @@
-[[Guitar/index|Home]]
+[[Guitar|Home]]
 # Great YT Channels for Songs + Tabs
 
 - [Rainy Day Studio](https://www.youtube.com/@rainydaystudio77)

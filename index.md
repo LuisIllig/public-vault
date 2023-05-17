@@ -1,3 +1,5 @@
-[[Projects/index|Projects]]
-[[Setup/index|Setup]]
-[[Guitar/index|Guitar]]
+# Table of Contents
+
+- [[Projects|Projects]]
+- [[Setup|Setup]]
+- [[Guitar|Guitar]]

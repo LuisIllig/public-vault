@@ -1,4 +1,4 @@
-[[Setup/index|Home]]
+[[Setup|Home]]
 # Hardware
 
 | Part  | Product            | Cost (€) |

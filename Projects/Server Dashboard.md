@@ -1,1 +1,1 @@
-[[Projects/index|Home]]
+[[Projects|Home]]

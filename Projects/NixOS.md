@@ -1,4 +1,4 @@
-[[Projects/index|Home]]
+[[Projects|Home]]
 
 https://github.com/NixOS/nixos-hardware
 https://github.com/wimpysworld/nix-config

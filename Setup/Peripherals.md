@@ -1,3 +1,3 @@
-[[Setup/index|Home]]
+[[Setup|Home]]
 # Hardware
 

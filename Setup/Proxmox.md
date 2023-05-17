@@ -1,4 +1,4 @@
-[[Setup/index|Home]]
+[[Setup|Home]]
 # Hardware
 
 geizhals [part list](https://geizhals.de/wishlists/2659082)
