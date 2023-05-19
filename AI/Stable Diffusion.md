@@ -99,6 +99,8 @@ Must haves:
 - controlnet
 - aspect-ratio-helper
 
+All plugins I use:
+
 ### [depthmap2mask](https://github.com/Extraltodeus/depthmap2mask)
 Creates masks using depth estimation. Very usefull for inpainting.
 
@@ -150,6 +152,22 @@ set COMMANDLINE_ARGS=--no-half-vae --no-half
 call webui.bat
 ```
 
+### Out of Memory
+
+I currently use a RTX 3060 TI with 8GB VRAM. Using Lora's and ControlNet causes OOM nearly every time. Adding ```--medvram``` to **COMMANDLINE_ARGS** and the line ```set PYTORCH_CUDA_ALLOC_CONF=garbage_collection_threshold:0.9,max_split_size_mb:512``` in the **webui-user.bat** file solved this issue for 8GB VRAM. If less VRAM is avaible  try ```--lowvram```.
+Full example:
+```Bash
+@echo off
+
+set PYTHON=
+set GIT=
+set VENV_DIR=
+set COMMANDLINE_ARGS=--medvram
+set PYTORCH_CUDA_ALLOC_CONF=garbage_collection_threshold:0.9,max_split_size_mb:512
+
+call webui.bat
+```
+
 # Stuff I need to add
 
 https://aigarlic.fanbox.cc/posts/5923261
@@ -157,3 +175,7 @@ https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main
 https://pacoup.com/2011/06/12/list-of-true-169-resolutions/
 https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion
 https://stable-diffusion-art.com/samplers/
+https://www.reddit.com/r/StableDiffusion/comments/119o71b/a1111_controlnet_extension_explained_like_youre_5/
+https://openposes.com/
+
+LAM
