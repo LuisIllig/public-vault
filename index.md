@@ -1,5 +1,8 @@
+What is [[README|this]]?
 # Table of Contents
 
-- [[Projects|Projects]]
-- [[Setup|Setup]]
-- [[Guitar|Guitar]]
+- [[Projects]]
+- [[Setup]]
+- [[Guitar]]
+- [[Philosophy]]
+- [[AI]]

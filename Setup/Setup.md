@@ -9,4 +9,4 @@ tag: index, toc, setup
 - [[Peripherals]]
 - [[Proxmox]]
 - [[Server]]
-- [[Working Station]]
+- [[Work Station]]
