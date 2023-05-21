@@ -11,5 +11,10 @@ Lenovo ThinkPad T16 Gen 1 for **1.683,01 €**.
 | Screen  | 16" WQXGA 2560x1600        |
 | GPU     | Integrated AMD Radeon 680M |
 
+
+# Upgrades
+
+- [Docking Station](https://geizhals.de/lenovo-thinkpad-universal-thunderbolt-4-dock-40b00135eu-a2567299.html) ~ 218€
+
 # OS
 

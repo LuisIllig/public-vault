@@ -18,3 +18,7 @@ Total: **1.516,16 €**
 # Planned Upgrades
 
 RTX 3090 for about 750-850 €. Better gaming experience + more stuff I could do with AI.
+
+# OS
+
+Currently Windows 10 Home. Will either completly move to Linux ([[NixOS]]) with a Windows 10 VM or dual boot Linux/ Windows 10.
