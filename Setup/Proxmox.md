@@ -17,3 +17,25 @@ geizhals [part list](https://geizhals.de/wishlists/2659082)
  | Case Fan   | be quiet! Pure Wings 2 PWM, 120mm | 8,20     |
 
 Total: **2.028,91 €**
+
+
+CPU governor for energy consumption
+cat  /sys/devices/system/cpu/cpu0/cpufreq/scaling_available_governors
+cat /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor
+echo "ondemand" | tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor
+
+crontab -e
+@reboot echo "ondemand" | tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor
+
+https://medium.com/@MARatsimbazafy/journey-to-deep-learning-nvidia-gpu-passthrough-to-lxc-container-97d0bc474957
+https://theorangeone.net/posts/lxc-nvidia-gpu-passthrough/
+https://passbe.com/2020/gpu-nvidia-passthrough-on-proxmox-lxc-container/
+dmks
+dynamic module kernel support
+
+https://wiki.archlinux.org/title/CPU_frequency_scaling#Scaling_drivers
+
+apt install cpufrequtils
+cpufreq-info
+
+https://forum.endeavouros.com/t/how-to-use-amd-p-state-in-linux/25247
